@@ -4,5 +4,11 @@
         "author": "Google",
         "name": "Google Chrome",
         "installerType": "exe"
+    },
+    "nodejs": {
+        "installerUrl": "https://nodejs.org/dist/v20.12.0/node-v20.12.0-x64.msi",
+        "author": "OpenJS Foundation",
+        "name": "Node.js",
+        "installerType": "msi"
     }
 }
